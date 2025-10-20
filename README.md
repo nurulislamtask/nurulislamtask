@@ -17,7 +17,7 @@
 
 🌍 Based in **Sylhet, Bangladesh**  
 🧠 Currently learning **React, Next.js, and Figma Design Systems**  
-📧 Reach me at: **nurulislamchy@gmail.com**  
+📧 Reach me at: **nurulislamtask@gmail.com**  
 🌐 Portfolio: [bongostaff.com](https://bongostaff.com)  
 💼 LinkedIn: [linkedin.com/in/nurulislamchy](https://linkedin.com/in/nurulislamchy)
 
